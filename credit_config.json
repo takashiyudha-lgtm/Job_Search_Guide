@@ -1,11 +1,11 @@
 {
   "app_name": "Credit Score Boost & Tools",
-  "package_name": "com.banadev.wallpaper.cutekitten",
+  "package_name": "com.banadev.guide.nexus",
   "enable_ads": false,
   "ad_units": {
-    "app_open": "ca-app-pub-6658570461438784/8842753057",
-    "interstitial": "ca-app-pub-6658570461438784/1751364588",
-    "native": "ca-app-pub-6658570461438784/2018510780"
+    "app_open": "ca-app-pub-6658570461438784/2198112795",
+    "interstitial": "ca-app-pub-6658570461438784/9226555577",
+    "native": "ca-app-pub-6658570461438784/8594186096"
   },
   "settings": {
     "interstitial_cooldown_seconds": 40
