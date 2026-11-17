@@ -1,7 +1,7 @@
 {
   "app_name": "Job Indeed Search Guidance",
   "package_name": "com.banadev.wallpaper.cutekitten",
-  "enable_ads": false,
+  "enable_ads": true,
   "ad_units": {
     "app_open": "ca-app-pub-6658570461438784/8842753057",
     "interstitial": "ca-app-pub-6658570461438784/1751364588",
