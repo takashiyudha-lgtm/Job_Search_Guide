@@ -1,7 +1,7 @@
 {
   "app_name": "Credit Score Boost & Tools",
   "package_name": "com.banadev.guide.nexus",
-  "enable_ads": false,
+  "enable_ads": true,
   "ad_units": {
     "app_open": "ca-app-pub-6658570461438784/2198112795",
     "interstitial": "ca-app-pub-6658570461438784/9226555577",
