@@ -1,19 +1,25 @@
 {
   "ads_enabled": true,
+  "use_test_ads": true,
   "safe_launch_mode": true,
   "interstitial_cooldown_sec": 90,
   "app_open_cooldown_sec": 120,
   "native_ad_interval": 4,
   "ad_units": {
-    "app_open_id": "ca-app-pub-6658570461438784/XXXXXXXXXX",
-    "banner_id": "ca-app-pub-6658570461438784/XXXXXXXXXX",
-    "interstitial_id": "ca-app-pub-6658570461438784/XXXXXXXXXX",
-    "native_id": "ca-app-pub-6658570461438784/XXXXXXXXXX"
+    "app_open_id": "ca-app-pub-6658570461438784/GANTI_APP_OPEN_ID",
+    "banner_id": "ca-app-pub-6658570461438784/GANTI_BANNER_ID",
+    "interstitial_id": "ca-app-pub-6658570461438784/GANTI_INTERSTITIAL_ID",
+    "native_id": "ca-app-pub-6658570461438784/GANTI_NATIVE_ID"
   },
   "house_ad": {
     "enabled": false,
     "title": "",
-    "banner_url": "",
+    "subtitle": "",
     "target_package": ""
+  },
+  "update_notice": {
+    "enabled": false,
+    "min_version_code": 1,
+    "store_url": "https://play.google.com/store/apps/details?id=com.nobita.document"
   }
 }
