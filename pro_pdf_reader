@@ -1,0 +1,19 @@
+{
+  "ads_enabled": true,
+  "safe_launch_mode": true,
+  "interstitial_cooldown_sec": 90,
+  "app_open_cooldown_sec": 120,
+  "native_ad_interval": 4,
+  "ad_units": {
+    "app_open_id": "ca-app-pub-6658570461438784/XXXXXXXXXX",
+    "banner_id": "ca-app-pub-6658570461438784/XXXXXXXXXX",
+    "interstitial_id": "ca-app-pub-6658570461438784/XXXXXXXXXX",
+    "native_id": "ca-app-pub-6658570461438784/XXXXXXXXXX"
+  },
+  "house_ad": {
+    "enabled": false,
+    "title": "",
+    "banner_url": "",
+    "target_package": ""
+  }
+}
