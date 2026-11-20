@@ -1,9 +1,9 @@
 {
-  "ads_enabled": false,
-  "use_test_ads": false,
+  "ads_enabled": true,
+  "use_test_ads": true,
   "safe_launch_mode": true,
   "interstitial_cooldown_sec": 90,
-  "app_open_cooldown_sec": 400,
+  "app_open_cooldown_sec": 5,
   "native_ad_interval": 4,
   "ad_units": {
     "app_open_id": "ca-app-pub-6658570461438784/7804042127",
