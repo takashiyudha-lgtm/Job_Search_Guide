@@ -7,7 +7,6 @@
   "native_ad_interval": 4,
   "ad_units": {
     "app_open_id": "ca-app-pub-6658570461438784/7804042127",
-    "banner_id": "ca-app-pub-6658570461438784/4055921694",
     "interstitial_id": "ca-app-pub-6658570461438784/8222397412",
     "native_id": "ca-app-pub-6658570461438784/9116676683"
   },
