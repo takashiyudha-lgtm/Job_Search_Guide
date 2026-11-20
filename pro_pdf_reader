@@ -1,6 +1,6 @@
 {
   "ads_enabled": false,
-  "use_test_ads": true,
+  "use_test_ads": false,
   "safe_launch_mode": true,
   "interstitial_cooldown_sec": 90,
   "app_open_cooldown_sec": 120,
