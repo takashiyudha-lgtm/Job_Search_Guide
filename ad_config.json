@@ -8,6 +8,18 @@
     "native": "ca-app-pub-6658570461438784/2018510780"
   },
   "settings": {
-    "interstitial_cooldown_seconds": 45
+    "interstitial_cooldown_seconds": 45,
+    "interstitial_action_interval": 2,
+    "native_interval_seconds": 60,
+    "app_open_interval_seconds": 180
+  },
+  "more_apps_json_url": "https://raw.githubusercontent.com/takashiyudha-lgtm/crosslink/refs/heads/main/more_games",
+  "house_ad": {
+    "enabled": true,
+    "title": "MintScope: Coin Value & ID",
+    "subtitle": "Scan & check rare coin values offline!",
+    "image_url": "https://github.com/takashiyudha-lgtm/crosslink/blob/main/feature.jpg?raw=true",
+    "target_url": "https://play.google.com/store/apps/details?id=com.banadev.amber.orbit",
+    "cta_text": "TRY FREE"
   }
 }
