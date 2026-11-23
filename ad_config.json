@@ -8,6 +8,6 @@
     "native": "ca-app-pub-6658570461438784/2018510780"
   },
   "settings": {
-    "interstitial_cooldown_seconds": 300
+    "interstitial_cooldown_seconds": 120
   }
 }
